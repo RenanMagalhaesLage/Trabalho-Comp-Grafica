@@ -14,4 +14,9 @@ Foi desenvolvido um jogo do tipo endless runner, utilizando a plataforma Unity. 
 ## Créditos
 O trabalho foi inspirado nos vídeos do [GDTitans](https://www.youtube.com/@GDTitans)
 
+## Obstáculos 
+A seguir segue os obstáculos modelados para o jogo:
 
+### Obstáculo de desvio
+### Obstáculo de pular
+### Obstáculo de agachar
