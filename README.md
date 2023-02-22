@@ -16,6 +16,9 @@ O propósito do jogo é simples: desviar dos obstáculos e coletar o máximo de 
 ## Créditos
 O trabalho foi inspirado nos vídeos do [GDTitans](https://www.youtube.com/@GDTitans)
 
+## ATENÇÃO
+Há alguns arquivos faltando pois o github não aceitou upar eles devido ao seu tamanho, esses são arquivos de animação e um obstáculo.
+
 ## Objetos moleados em sala
 
 ### Donut
