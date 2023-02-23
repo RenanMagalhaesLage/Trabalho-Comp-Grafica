@@ -16,6 +16,9 @@ O propósito do jogo é simples: desviar dos obstáculos e coletar o máximo de 
 ## Créditos
 O trabalho foi inspirado nos vídeos do [GDTitans](https://www.youtube.com/@GDTitans)
 
+## Tela Inicial do Jogo
+![Captura de Tela (1032)](https://user-images.githubusercontent.com/89847080/220929415-3beb8a70-1c03-4525-a5b7-01d8ef76793c.png)
+
 ## Objetos moleados em sala
 
 ### Donut
